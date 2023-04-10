@@ -33,7 +33,7 @@ jobs:
  goodbye:
     runs-on: ubuntu-latest
     steps:
-       - name: Good Bye Rukshar
-         run: echo "goodbye"
-         shell: bash
+      - name: Good Bye Rukshar
+        run: echo "goodbye"
+        shell: bash
    
