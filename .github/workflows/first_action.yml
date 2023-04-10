@@ -29,7 +29,7 @@ jobs:
         run: echo "Rukshar!!!"
         shell: bash
 
- goodbye:
+  goodbye:
     runs-on: ubuntu-latest
     steps:
       - name: Good Bye Rukshar
